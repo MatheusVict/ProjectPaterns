@@ -1,4 +1,4 @@
-package dev.matheusvictor.gof;
+package dev.matheusvictor.gof.singleton;
 
 /*
 * SingletonLazy

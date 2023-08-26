@@ -1,4 +1,4 @@
-package dev.matheusvictor.gof;
+package dev.matheusvictor.gof.singleton;
 
 public class Test {
   public static void main(String[] args) {
